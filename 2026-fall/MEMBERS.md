@@ -12,6 +12,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | 지익준 | [ikjun-chi.github.io](https://ikjun-chi.github.io) |
 | 이승재 | [brightexe-bot.github.io](https://brightexe-bot.github.io) |
 | 조현지 | [hyungeejo.github.io](https://hyungeejo.github.io) |
+| 김진현 | [nirvana-works.github.io](https://nirvana-works.github.io) |
 
 ## Team 2
 
